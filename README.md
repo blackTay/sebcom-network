@@ -2,15 +2,15 @@
 A secure backup communication system. Doesn't rely on cellular networks. Doesn't use screens.
 
 ## What is it?
-Have you ever needed to communicate in an area without a cellular network? You may have realized that in such a situation, our high-tech phones are as useless as a rock.
+Have you ever needed to communicate in an area without a cellular network? You may have realized that our high-tech phones are as useless as a rock in such a situation.
 
-This project provides a solution, and enables even the transmission of highly confidential information.
+This project provides a solution to that issue and enables the transmission of highly confidential information.
 
 ## How does it work?
 
-You connect your keyboard to a microcontroller, type your message, and hit enter. Your message gets encrypted (AES256) and transmitted to the receiver on the 868 MHz frequency band (915 MHz in the U.S.). 
+You connect your keyboard to a microcontroller, type your message, and hit enter. Your message gets encrypted (AES256) and transmitted to the receiver on the 868 MHz frequency band (915 MHz in the U.S.).
 
-When you receive a message, it gets decrypted, and will be displayed upon a button click from your side. Once you decide to read the message, it exists nowhere but on the ePaper display: It stays -- even in the case of power loss -- on screen until you hit a reset button. 
+When you receive a message, it gets decrypted and will be displayed upon a button click from your side. Once you decide to read the message, it exists nowhere but on the ePaper display: It stays -- even in the case of power loss -- on screen until you hit a reset button.
 
 (Yes, this resembles mission impossible)
 
