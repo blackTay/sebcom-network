@@ -2,7 +2,7 @@
 A secure backup communication system. Doesn't rely on cellular networks. Doesn't use screens.
 
 ## What is it?
-Have you ever needed to communicate in an area without a cellular network? You maybe realized that in such a situation, our high-tech phones are as useless as a rock.
+Have you ever needed to communicate in an area without a cellular network? You may have realized that in such a situation, our high-tech phones are as useless as a rock.
 
 This project provides a solution, and enables even the transmission of highly confidential information.
 
